@@ -45,6 +45,7 @@ class Person{
 
 	public void intro() {
 		System.out.println(name+" : "+number);
+		System.out.println("hello world");
 	}
 }
 
